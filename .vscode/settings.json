@@ -1,0 +1,15 @@
+{
+    "llm-assistant.endpoint": "http://127.0.0.1:1234",
+    "llm-assistant.model": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive",
+    "llm-assistant.maxTokens": 16288,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.chatSession": true,
+        "workbench.editor.chatDebug": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "workbench.editors.gettingStartedInput": true,
+        "vscode.videoPreview": true,
+        "vscode.audioPreview": true,
+        "imagePreview.previewEditor": true
+    }
+}
